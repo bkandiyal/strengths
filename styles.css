@@ -1,0 +1,76 @@
+body {
+  margin:0;
+  padding:0;
+  background-image: url("/images/bgi.jpeg"); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  font-size: 90px;
+  opacity: 0.7;
+}
+
+#center {
+  max-width: 900px;
+  margin: auto;
+}
+
+.square {   
+    height:150px;
+    width:150px;      
+    margin-left: 25px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#red {
+  background-color:#EE6352;
+}
+
+#green {
+    background-color:#59CD90;
+}
+
+#blue {
+    background-color:#3FA7D6;
+}
+
+#yellow {
+    background-color:#FAC05E
+}
+
+#pink {
+    background-color:#F79D84
+}
+
+.title {
+    text-align: center;
+    color: white;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px
+    }
+
+.content {
+  opacity: 0;
+  font-size: 18px;
+  font-family: 'Josefin Slab', serif;
+  padding: 10px;
+} 
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 200px;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  font-size: 20px;
+  opacity: 0.7;
+}

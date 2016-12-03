@@ -7,4 +7,6 @@ So, I decided to build this simple webpage to remind myself of what makes me spe
 
 Simply use your mouse to hover over each title to see more.
 
+https://alisheryuldashev.github.io/strengths/
+
 Thank you for visiting. 
